@@ -29,11 +29,15 @@ h4 {
 body {
     background-color: beige;
     font-family: Chapaza;
-    src: url(Chapaza.ttf);
+    src: url(Chapaza.ttf)
 }
 
-.center {
-    text-align: center;
+.story {
+    width:auto; height:auto;
+    border:solid darkgoldenrod;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 10px;
 }
 
 img {
