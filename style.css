@@ -1,0 +1,38 @@
+h1 {
+color: darkgoldenrod;
+}
+h2 {
+color: darkgoldenrod;
+}
+h3 {
+    color: darkgoldenrod;
+}
+h4 {
+    color: darkgoldenrod;
+}
+
+h1 {
+    background-color: aliceblue;
+}
+
+body {
+    background-color: beige;
+}
+
+img {
+    border-radius: 50%
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+}
+
+img {
+    float: outside;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
